@@ -1,2 +1,2 @@
 # GRC-Engagements
-Portfolio of GRC Engagements - security maturity, Third-party Risk Management, Compliance Auditing, full ISMS/ISO27001 certification, AI Governance,etc
+Portfolio of GRC Engagements - security maturity using NIST CSF, Third-party Risk Management, Compliance Auditing, IAM, full Information Security Management System /ISO27001 certification, and AI Governance assignments/projects
